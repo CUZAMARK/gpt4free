@@ -863,7 +863,13 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
 
-
+```
+xtekky/gpt4free: कॉपीराइट (C) 2023 xtekky
+यह प्रोग्राम मुफ्त सॉफ्टवेयर है: आप इसे फ्री सॉफ्टवेयर फाउंडेशन द्वारा प्रकाशित GNU General Public License की शर्तों के तहत, या लाइसेंस के संस्करण 3, या (अपनी पसंद पर) किसी बाद के संस्करण के तहत पुनर्वितरित कर सकते हैं और/या संशोधित कर सकते हैं।
+यह प्रोग्राम यह उम्मीद के साथ वितरित किया जा रहा है कि यह उपयोगी साबित होगा,
+लेकिन किसी भी गारंटी के बिना; बिना यहां तक कि व्यापारिकता या एक विशेष उद्देश्य के लिए फिटनेस की निहित गारंटी के बिना। अधिक विवरण के लिए GNU General Public License देखें।
+आपको इस प्रोग्राम के साथ GNU General Public License की एक प्रति प्राप्त होनी चाहिए थी। यदि नहीं, तो https://www.gnu.org/licenses/ देखें।
+```
 ## ⭐ Star History
 
 <a href="https://github.com/xtekky/gpt4free/stargazers">
